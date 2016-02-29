@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# this pack will simply output some environment variables
+echo "DebugENVFramework"
+echo $CPPPATH
+exit 0
