@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# noop
+echo "DebugENVFramework compile"
+exit 0
